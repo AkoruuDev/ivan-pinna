@@ -16,12 +16,13 @@ function App() {
             <p>Empresário no ramo da educação há 11 anos. Multi franqueado Microlins. Idealizador e Fundador da Contrata Fácil. Criador do Método Start90. Analista de Perfil Comportamental. Treinador de Negócios. Mentor Empresarial e Especialista em Comportamento Humano.</p>
           </div>
           <div className="buttons">
-          <a href="https://relatorio.mapeamentocontratafacil.com.br/r/contratafacil" target="_blank"><div className="btn">Perfil Comportamental</div></a>
-          <a href="https://linguagens-do-amor.vercel.app/" target="_blank"><div className="btn">Linguagens do Amor</div></a>
-          <a href="" target="_blank"><div className="btn">Ikigai</div></a>
+            <a href="https://relatorio.mapeamentocontratafacil.com.br/r/contratafacil" target="_blank"><div className="btn">Perfil Comportamental</div></a>
+            <a href="https://linguagens-do-amor.vercel.app/" target="_blank"><div className="btn">Linguagens do Amor</div></a>
+            <a href="" target="_blank"><div className="btn">Ikigai</div></a>
           </div>
         </div>
       </section>
+      <a href="https://github.com/AkoruuDev" target="_blank"><footer>Created by Allan Majas</footer></a>
     </div>
   );
 }
