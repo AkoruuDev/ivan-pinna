@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <section className="container">      
-        <img className="picture" src="./assets/tbg-pic-yellow.png" alt="logo-icon" />
+        <img className="picture" src="./assets/tbg-pic-dblue.png" alt="logo-icon" />
         <div className="right-side">
           <h1 className="name">Ivan Pinna</h1>
           <nav className="menu">
@@ -21,8 +21,8 @@ function App() {
             <a href="" target="_blank"><div className="btn">Ikigai</div></a>
           </div>
         </div>
+        <a href="https://github.com/AkoruuDev" target="_blank"><footer>Created by Allan Majas</footer></a>
       </section>
-      <a href="https://github.com/AkoruuDev" target="_blank"><footer>Created by Allan Majas</footer></a>
     </div>
   );
 }
